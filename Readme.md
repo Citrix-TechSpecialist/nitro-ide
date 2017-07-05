@@ -19,7 +19,7 @@ You can pull the main docker image from [DockerHub](https://hub.docker.com/r/may
 ..or build your own by doing the following: 
 
 ```
-git clone https://github.com/MayankTahil/nitro-ide.git
+git clone https://github.com/Citrix-TechSpecialist/nitro-ide.git
 
 sudo docker build -t mayankt/nitro-ide ./nitro-ide
 ```
@@ -73,7 +73,7 @@ If you are looking for a self contained sandbox to try out NITRO commands via Ne
 To use `docker-compose` enter the following on your host machine: 
 
 ```
-git clone https://github.com/MayankTahil/nitro-ide.git
+git clone https://github.com/Citrix-TechSpecialist/nitro-ide.git
 
 cd nitro-ide
 
