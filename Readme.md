@@ -172,5 +172,5 @@ All done preforming configuration
 1. Official home of cpx at [micrloadbalancer.com](https://microloadbalancer.com)
 2. [Citrix's official GitHub page](https://github.com/citrix) for various relevant NetScaler tools and projects. 
 3. [Chirdeep's](https://github.com/chiradeep) blog on [Layer7.wordpress.com](https://layer7.wordpress.com/)
-4. [Brian's](https://github.com/btannous?tab=stars) blog on managing cpx with GoLan at [bt.logic.bz](https://http://bt.logic.bz/)
+4. [Brian's](https://github.com/btannous?tab=stars) blog on managing cpx with GoLang, [containerized deployment](https://hub.docker.com/r/mayankt/cpx-blog/)
 5. [Citrix Technology Specialists Git hub Page](https://github.com/Citrix-TechSpecialist) for other relevant NetScaler 
