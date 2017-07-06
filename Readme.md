@@ -166,3 +166,11 @@ All done preforming configuration
 3. Navigate to `http://localhost:10000` to see the exposed load balanced webservers. Refresh your browser to see WebServer-A and WebServer-B round robin. 
 
 > For more advanced examples of Nitro-API, refer to [https://github.com/Citrix-TechSpecialist/NetScalerNITRO.git](https://github.com/Citrix-TechSpecialist/NetScalerNITRO.git) master branch to configure HA pairs of VPX and MPX devices. 
+
+# Additional Resources 
+
+1. Official home of cpx at [micrloadbalancer.com](https://microloadbalancer.com)
+2. [Citrix's official GitHub page](https://github.com/citrix) for various relevant NetScaler tools and projects. 
+3. [Chirdeep's](https://github.com/chiradeep) blog on [Layer7.wordpress.com](https://layer7.wordpress.com/)
+4. [Brian's](https://github.com/btannous?tab=stars) blog on managing cpx with GoLan at [bt.logic.bz](https://http://bt.logic.bz/)
+5. [Citrix Technology Specialists Git hub Page](https://github.com/Citrix-TechSpecialist) for other relevant NetScaler 
