@@ -166,11 +166,3 @@ All done preforming configuration
 3. Navigate to `http://localhost:10000` to see the exposed load balanced webservers. Refresh your browser to see WebServer-A and WebServer-B round robin. 
 
 > For more advanced examples of Nitro-API, refer to [https://github.com/Citrix-TechSpecialist/NetScalerNITRO.git](https://github.com/Citrix-TechSpecialist/NetScalerNITRO.git) master branch to configure HA pairs of VPX and MPX devices. 
-
-
-
-
-
-
-
-
