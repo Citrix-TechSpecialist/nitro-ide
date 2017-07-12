@@ -42,15 +42,16 @@ services:
   nitro-ide:
     image: "mayankt/nitro-ide"
     restart: always
+    dns: 8.8.8.8
     networks:
       sandbox:
         ipv4_address: "192.168.13.10"
     ports:
       - "9090:80"
       - "9091:8000"
-# Uncomment the next two lines to map to your local host directory where your git projects are stored.       
+# Update the next two lines to map to your local host directory where your git projects are stored.       
 #    volumes:
-#        - ${LDAP_DB}:/var/lib/ldap:rw      
+#        - ${DATA_DIR}:/workspace:rw      
     hostname: nitro-ide
 
 networks:
